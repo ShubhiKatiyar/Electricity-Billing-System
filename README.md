@@ -1,13 +1,14 @@
 # Electricity-Billing-System
 Concept Used: Core JAVA (Swing) 
-Database Used: My SQL 
+Database Used: My SQL
+IDE Used: Netbeans
 Description: This is a GUI project in which a user can store the data of customers, 
 it also generates the bill and has an online payment mode ( Paytm) for deposition of 
 bill amount and generates the receipt.
 
-========================
+
 BUILD OUTPUT DESCRIPTION
-========================
+
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
