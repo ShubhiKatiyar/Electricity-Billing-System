@@ -1,4 +1,5 @@
 ![Screenshot (5)](https://user-images.githubusercontent.com/73656057/103225537-1f85b600-4950-11eb-81f2-42e59a2b596c.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/73656057/103225864-deda6c80-4950-11eb-83cc-29767be8617c.png)
 # Electricity-Billing-System
 Concept Used: Core JAVA (Swing) 
 Database Used: My SQL
